@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/aspectjweaver-1.9.4.jar"/>
+	<classpathentry kind="lib" path="lib/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.net.sf.cglib-2.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/mchange-commons-java-0.2.11.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-8.0.15.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aop-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aspects-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-beans-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-context-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-core-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-expression-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-jdbc-5.1.5.RELEASE.jar" sourcepath="E:/spring-framework-5.1.5.RELEASE-dist/spring-framework-5.1.5.RELEASE/libs/spring-jdbc-5.1.5.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="source_encoding" value="UTF-8"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/spring-orm-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-tx-5.1.5.RELEASE.jar" sourcepath="E:/spring-framework-5.1.5.RELEASE-dist/spring-framework-5.1.5.RELEASE/libs/spring-tx-5.1.5.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="source_encoding" value="UTF-8"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/spring-web-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-webmvc-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
